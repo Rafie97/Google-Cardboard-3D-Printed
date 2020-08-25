@@ -1,3 +1,6 @@
+Here is a project I 3D printed based on Google Cardboard, an augmented reality headset made for phones. This version is much sturdier despite the duct tape, which is an eye sore but mechanically useful in this case.
+
+
 ![IMAG1190](https://user-images.githubusercontent.com/11741706/91128665-377dbe00-e66e-11ea-9311-bbe6c14e1810.jpg)
 ![IMAG1191](https://user-images.githubusercontent.com/11741706/91128670-38165480-e66e-11ea-8bda-e235ae5b1ece.jpg)
 ![IMAG1192](https://user-images.githubusercontent.com/11741706/91128676-38aeeb00-e66e-11ea-9b62-612cf61929dd.jpg)
